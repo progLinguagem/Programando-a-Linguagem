@@ -1,0 +1,17 @@
+﻿Sentence,Item_condition,Group
+Os_vizinhos entregaram Ivo na_polícia mas depois absolveram ele no júri,1_a,A
+Os_vizinhos entregaram Ivo na_polícia mas depois absolveram Ivo no júri,1_b,B
+Meus_pais foram buscar Ana no_Natal mas não encontraram ela na loja,2_a,B
+Meus_pais foram buscar Ana no_Natal mas não encontraram Ana na loja,2_b,A
+A_gerência promoveu Nei no_emprego mas não aprovaram ele na chefia,3_a,A
+A_gerência promoveu Nei no_emprego mas não aprovaram Nei na chefia,3_b,B
+Os_detetives investigaram Isa na_Itália mas não rastrearam ela no Japão,4_a,B
+Os_detetives investigaram Isa na_Itália mas não rastrearam Isa no Japão,4_b,A
+Os_colegas pintaram Lia no_camarim mas depois esqueceram ela no palco,5_a,A
+Os_colegas pintaram Lia no_camarim mas depois esqueceram Lia no palco,5_b,B
+As_irmãs perderam Ari no_passeio mas depois encontraram ele no parque,6_a,B
+As_irmãs perderam Ari no_passeio mas depois encontraram Ari no parque,6_b,A
+Os_primos deixaram Bia no_hotel mas não buscaram ela na hora,7_a,A
+Os_primos deixaram Bia no_hotel mas não buscaram Bia na hora,7_b,B
+Os_amigos jogaram Rui na_piscina mas depois resgataram ele na borda,8_a,B
+Os_amigos jogaram Rui na_piscina mas depois resgataram Rui na borda,8_a,A
